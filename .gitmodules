@@ -1,6 +1,18 @@
+[submodule "contracts/dependencies/eris-token"]
+	path = contracts/dependencies/eris-token
+	url = git@github.com:Mimir-Solutions/eris-token.git
+[submodule "contracts/dependencies/pantheon-sales-platform"]
+	path = contracts/dependencies/pantheon-sales-platform
+	url = git@github.com:Mimir-Solutions/pantheon-sales-platform.git
+[submodule "contracts/dependencies/kallisti-token"]
+	path = contracts/dependencies/kallisti-token
+	url = git@github.com:Mimir-Solutions/kallisti-token.git
+[submodule "ui/mimir-solutions-site"]
+	path = ui/mimir-solutions-site
+	url = git@github.com:Mimir-Solutions/mimir-solutions-site.git
 [submodule "contracts/dependencies/holyzeppelin"]
 	path = contracts/dependencies/holyzeppelin
 	url = git@github.com:Mimir-Solutions/holyzeppelin.git
-[submodule "contracts/dependencies/authorization-protocol"]
-	path = contracts/dependencies/authorization-protocol
-	url = git@github.com:Mimir-Solutions/authorization-protocol.git
+[submodule "contracts/dependencies/authorization-platform"]
+	path = contracts/dependencies/authorization-platform
+	url = git@github.com:Mimir-Solutions/authorization-platform.git
