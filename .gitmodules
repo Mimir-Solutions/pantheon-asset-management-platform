@@ -4,9 +4,6 @@
 [submodule "contracts/dependencies/pantheon-sales-platform"]
 	path = contracts/dependencies/pantheon-sales-platform
 	url = git@github.com:Mimir-Solutions/pantheon-sales-platform.git
-[submodule "contracts/dependencies/kallisti-token"]
-	path = contracts/dependencies/kallisti-token
-	url = git@github.com:Mimir-Solutions/kallisti-token.git
 [submodule "ui/mimir-solutions-site"]
 	path = ui/mimir-solutions-site
 	url = git@github.com:Mimir-Solutions/mimir-solutions-site.git
