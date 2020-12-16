@@ -1,0 +1,27 @@
+[submodule "contracts/dependencies/holyzeppelin"]
+	path = contracts/dependencies/holyzeppelin
+	url = git@github.com:Mimir-Solutions/holyzeppelin.git
+[submodule "test/contracts/mimir-test-harness"]
+	path = test/contracts/mimir-test-harness
+	url = git@github.com:Mimir-Solutions/mimir-test-harness.git
+[submodule "contracts/dependencies/uniswap-lib"]
+	path = contracts/dependencies/uniswap-lib
+	url = git@github.com:Mimir-Solutions/uniswap-lib.git
+[submodule "contracts/dependencies/uniswap-v2-core"]
+	path = contracts/dependencies/uniswap-v2-core
+	url = git@github.com:Mimir-Solutions/uniswap-v2-core.git
+[submodule "contracts/dependencies/uniswap-v2-periphery"]
+	path = contracts/dependencies/uniswap-v2-periphery
+	url = git@github.com:Mimir-Solutions/uniswap-v2-periphery.git
+[submodule "contracts/dependencies/authorization-platform"]
+	path = contracts/dependencies/authorization-platform
+	url = git@github.com:Mimir-Solutions/authorization-platform.git
+[submodule "contracts/dependencies/balancer/exchange-proxy"]
+	path = contracts/dependencies/balancer/exchange-proxy
+	url = git@github.com:Mimir-Solutions/exchange-proxy.git
+[submodule "contracts/dependencies/balancer/balancer-registry"]
+	path = contracts/dependencies/balancer/balancer-registry
+	url = git@github.com:Mimir-Solutions/balancer-registry.git
+[submodule "contracts/dependencies/balancer/balancer-core"]
+	path = contracts/dependencies/balancer/balancer-core
+	url = git@github.com:Mimir-Solutions/balancer-core.git
