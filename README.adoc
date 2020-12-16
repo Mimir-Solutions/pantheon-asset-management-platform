@@ -3,6 +3,10 @@
 == environment installation
 **********************************************************************************
 
+npm install --save-dev hardhat ethers mocha chai ethereum-waffle @nomiclabs/hardhat-waffle @nomiclabs/hardhat-ethers @openzeppelin/test-helpers hardhat-gas-reporter; npm install solidity-docgen buidler-source-descriptor
+
+**********************************************************************************
+
 npm init --yes
 
 npm install -g solc truffle-flattener 
