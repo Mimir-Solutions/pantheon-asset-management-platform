@@ -25,3 +25,105 @@
 [submodule "contracts/dependencies/balancer/balancer-core"]
 	path = contracts/dependencies/balancer/balancer-core
 	url = git@github.com:Mimir-Solutions/balancer-core.git
+[submodule "contracts/dependencies/dracula/dracula-contracts"]
+	path = contracts/dependencies/dracula/dracula-contracts
+	url = git@github.com:Mimir-Solutions/dracula-contracts.git
+[submodule "contracts/dependencies/contribute/contribute-contracts"]
+	path = contracts/dependencies/contribute/contribute-contracts
+	url = git@github.com:Mimir-Solutions/contribute-contracts.git
+[submodule "contracts/dependencies/contribute/trib-router"]
+	path = contracts/dependencies/contribute/trib-router
+	url = git@github.com:Mimir-Solutions/trib-router.git
+[submodule "contracts/dependencies/luaswap/luaswap-core"]
+	path = contracts/dependencies/luaswap/luaswap-core
+	url = git@github.com:Mimir-Solutions/luaswap-core.git
+[submodule "contracts/dependencies/sushiswap/bentobox"]
+	path = contracts/dependencies/sushiswap/bentobox
+	url = git@github.com:Mimir-Solutions/sushiswap-bentobox.git
+[submodule "contracts/dependencies/sushiswap/sushiswap"]
+	path = contracts/dependencies/sushiswap/sushiswap
+	url = git@github.com:sushiswap/sushiswap.git
+[submodule "contracts/dependencies/sushiswap/sushiswap-zapper"]
+	path = contracts/dependencies/sushiswap/sushiswap-zapper
+	url = git@github.com:Mimir-Solutions/sushiswap-zapper.git
+[submodule "contracts/dependencies/sishiswap/sushiswap-settlement"]
+	path = contracts/dependencies/sishiswap/sushiswap-settlement
+	url = git@github.com:Mimir-Solutions/sushiswap-settlement.git
+[submodule "contracts/dependencies/mstable/mStable-example"]
+	path = contracts/dependencies/mstable/mStable-example
+	url = git@github.com:Mimir-Solutions/mStable-example.git
+[submodule "contracts/dependencies/mstable/mStable-contracts"]
+	path = contracts/dependencies/mstable/mStable-contracts
+	url = git@github.com:Mimir-Solutions/mStable-contracts.git
+[submodule "contracts/dependencies/combine/combstake-contracts"]
+	path = contracts/dependencies/combine/combstake-contracts
+	url = git@github.com:Mimir-Solutions/combstake-contracts.git
+[submodule "contracts/dependencies/compund/compound-protocol"]
+	path = contracts/dependencies/compund/compound-protocol
+	url = git@github.com:Mimir-Solutions/compound-protocol.git
+[submodule "contracts/dependencies/swerve/swerve-contracts"]
+	path = contracts/dependencies/swerve/swerve-contracts
+	url = git@github.com:Mimir-Solutions/swerve-contracts.git
+[submodule "contracts/dependencies/curve/curve-contract"]
+	path = contracts/dependencies/curve/curve-contract
+	url = git@github.com:Mimir-Solutions/curve-contract.git
+[submodule "contracts/dependencies/yearn/yearn-vaults"]
+	path = contracts/dependencies/yearn/yearn-vaults
+	url = git@github.com:Mimir-Solutions/yearn-vaults.git
+[submodule "contracts/dependencies/yearn/brownie-strategy-mix"]
+	path = contracts/dependencies/yearn/brownie-strategy-mix
+	url = git@github.com:Mimir-Solutions/brownie-strategy-mix.git
+[submodule "contracts/dependencies/yearn/ygift"]
+	path = contracts/dependencies/yearn/ygift
+	url = git@github.com:Mimir-Solutions/ygift.git
+[submodule "contracts/dependencies/yearn/yearn-treasury"]
+	path = contracts/dependencies/yearn/yearn-treasury
+	url = git@github.com:Mimir-Solutions/yearn-treasury.git
+[submodule "contracts/dependencies/yearn/yearn-protocol"]
+	path = contracts/dependencies/yearn/yearn-protocol
+	url = git@github.com:Mimir-Solutions/yearn-protocol.git
+[submodule "contracts/dependencies/yearn/yoracle.link"]
+	path = contracts/dependencies/yearn/yoracle.link
+	url = git@github.com:Mimir-Solutions/yoracle.link.git
+[submodule "contracts/dependencies/yearn/ycredit.finance"]
+	path = contracts/dependencies/yearn/ycredit.finance
+	url = git@github.com:Mimir-Solutions/ycredit.finance.git
+[submodule "contracts/dependencies/yearn/yearn-starter-pack"]
+	path = contracts/dependencies/yearn/yearn-starter-pack
+	url = git@github.com:Mimir-Solutions/yearn-starter-pack.git
+[submodule "contracts/dependencies/yearn/yearn-recycle"]
+	path = contracts/dependencies/yearn/yearn-recycle
+	url = git@github.com:Mimir-Solutions/yearn-recycle.git
+[submodule "contracts/dependencies/yearn/iearn-zap"]
+	path = contracts/dependencies/yearn/iearn-zap
+	url = git@github.com:Mimir-Solutions/iearn-zap.git
+[submodule "contracts/dependencies/yearn/iborrow-finance"]
+	path = contracts/dependencies/yearn/iborrow-finance
+	url = git@github.com:Mimir-Solutions/iborrow-finance.git
+[submodule "contracts/dependencies/yearn/yswap-finance"]
+	path = contracts/dependencies/yearn/yswap-finance
+	url = git@github.com:Mimir-Solutions/yswap-finance.git
+[submodule "contracts/dependencies/yearn/ileverage-finance"]
+	path = contracts/dependencies/yearn/ileverage-finance
+	url = git@github.com:Mimir-Solutions/ileverage-finance.git
+[submodule "contracts/dependencies/yearn/itoken"]
+	path = contracts/dependencies/yearn/itoken
+	url = git@github.com:Mimir-Solutions/itoken.git
+[submodule "contracts/dependencies/yearn/uniswap-roi"]
+	path = contracts/dependencies/yearn/uniswap-roi
+	url = git@github.com:Mimir-Solutions/uniswap-roi.git
+[submodule "contracts/dependencies/yearn/apr-oracle"]
+	path = contracts/dependencies/yearn/apr-oracle
+	url = git@github.com:Mimir-Solutions/apr-oracle.git
+[submodule "contracts/dependencies/velo-finance/velo-protocol"]
+	path = contracts/dependencies/velo-finance/velo-protocol
+	url = git@github.com:Mimir-Solutions/velo-protocol.git
+[submodule "contracts/dependencies/base-protocol/base-protocol-contracts-0.6.12"]
+	path = contracts/dependencies/base-protocol/base-protocol-contracts-0.6.12
+	url = git@github.com:Mimir-Solutions/base-protocol-contracts-0.6.12.git
+[submodule "contracts/dependencies/benchmark/benchmark-protocol"]
+	path = contracts/dependencies/benchmark/benchmark-protocol
+	url = git@github.com:Mimir-Solutions/benchmark-protocol.git
+[submodule "contracts/dependencies/benchmark/launchpad-contract"]
+	path = contracts/dependencies/benchmark/launchpad-contract
+	url = git@github.com:Mimir-Solutions/launchpad-contract.git
